@@ -1,0 +1,2 @@
+python-telegram-bot>=20.0
+aiocryptopay>=0.1; extra == 'crypto'  # опционально, бот может работать в демо-режиме
